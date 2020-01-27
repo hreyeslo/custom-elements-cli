@@ -51,7 +51,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/hreyeslo17/custom-elements-cli/blob/v0.0.1/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/hreyeslo/custom-elements-cli/blob/v0.0.1/src/commands/hello.ts)_
 
 ## `ce help [COMMAND]`
 
